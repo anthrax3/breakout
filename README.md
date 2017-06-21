@@ -25,7 +25,7 @@ Left and Right Arrow moves the Bat
 
 Up and Down Arrow moves the Bat faster
 
-Type "p" to pause, and retype "p" to continue
+Type "p" to pause and retype "p" to continue
 
 
 # Bricks: 
