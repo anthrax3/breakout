@@ -4,7 +4,7 @@ Author: Ighor Augusto
 Based on: https://github.com/valeriangalliat/breakout
 Thanks Valerian! ;)
 
-# Dependecies:
+# Dependencies:
 
 - ncurses
 
