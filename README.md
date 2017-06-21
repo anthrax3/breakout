@@ -13,11 +13,11 @@ Thanks Valerian! ;)
 
 # Compiling:
 
-> git clone https://github.com/f0rb1dd3n/breakout.git 
-> cd breakout
-> make
-> cd bin
-> ./breakout
+    git clone https://github.com/f0rb1dd3n/breakout.git 
+    cd breakout
+    make
+    cd bin
+    ./breakout
 
 # Controles: 
 
