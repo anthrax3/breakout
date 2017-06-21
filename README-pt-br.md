@@ -21,7 +21,10 @@ Obrigado Valerian!
 # Controles: 
 
 Setas para direita e esquerda
+
 Setas para cima e para baixo movem mais rápido
+
+Digite "p" para pausar e continuar
 
 # Bricks:
 
