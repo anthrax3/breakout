@@ -8,15 +8,15 @@ Thanks Valerian! ;)
 
 - ncurses
 
-$ apt-get install libncurses5 libncurses5-dev
+> apt-get install libncurses5 libncurses5-dev
 
 # Compiling:
 
-$ git clone https://github.com/f0rb1dd3n/breakout.git 
-$ cd breakout
-$ make
-$ cd bin
-$ ./breakout
+> git clone https://github.com/f0rb1dd3n/breakout.git 
+> cd breakout
+> make
+> cd bin
+> ./breakout
 
 # Controles: 
 
