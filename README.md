@@ -19,7 +19,7 @@ Thanks Valerian! ;)
     cd bin
     ./breakout
 
-# Controles: 
+# Control: 
 
 Left and Right Arrow moves the Bat
 
