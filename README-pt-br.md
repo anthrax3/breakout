@@ -4,13 +4,13 @@ Autor: Ighor Augusto
 Baseado em: https://github.com/valeriangalliat/breakout
 Obrigado Valerian!
 
-Dependencias: ---------------------------------------------
+Dependencias: -------------------------------------------------------------------------------------------------
 
 - ncurses
 
 $ apt-get install libncurses5 libncurses5-dev
 
-Compilação: -----------------------------------------------
+Compilação: ---------------------------------------------------------------------------------------------------
 
 $ git clone breakout
 $ cd breakout
@@ -18,12 +18,12 @@ $ make
 $ cd bin
 $ ./breakout
 
-Controles: ------------------------------------------------
+Controles: ----------------------------------------------------------------------------------------------------
 
 Setas para direita e esquerda
 Setas para cima e para baixo movem mais rápido
 
-Bricks: ---------------------------------------------------
+Bricks: -------------------------------------------------------------------------------------------------------
 
 São 4 tipos de bricks:
 
@@ -41,7 +41,7 @@ A cor representa quantos acertos faltam para destruir:
 
 Os pontos sao adicionados quando o brick é destruido.
 
-Vidas: ----------------------------------------------------
+Vidas: --------------------------------------------------------------------------------------------------------
 
 Possui 3 vidas, começando do 2 e teminando no 0.
 Quando errar e perder uma vida a bola volta para o centro

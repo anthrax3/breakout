@@ -4,13 +4,13 @@ Author: Ighor Augusto
 Based on: https://github.com/valeriangalliat/breakout
 Thanks Valerian! ;)
 
-Dependecies: ----------------------------------------------
+Dependecies: ---------------------------------------------------------------------------------------------------
 
 - ncurses
 
 $ apt-get install libncurses5 libncurses5-dev
 
-Compilação: -----------------------------------------------
+Compilação: ----------------------------------------------------------------------------------------------------
 
 $ git clone breakout
 $ cd breakout
@@ -18,12 +18,12 @@ $ make
 $ cd bin
 $ ./breakout
 
-Controles: ------------------------------------------------
+Controles: -----------------------------------------------------------------------------------------------------
 
 Left and Right Arrow moves the Bat
 Up and Down Arrow moves the Bat faster
 
-Bricks: ---------------------------------------------------
+Bricks: --------------------------------------------------------------------------------------------------------
 
 4 bricks types:
 
@@ -41,7 +41,7 @@ The color indicates how many hits are left to destroy:
 
 The points are got only if the brick are destroyed!
 
-Lives: ---------------------------------------------------
+Lives: ---------------------------------------------------------------------------------------------------------
 
 You have 3 lives, starting from 0 to 2. When some mistakes
 are done, you lost one life and the ball returns to the
