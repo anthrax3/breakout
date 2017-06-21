@@ -8,15 +8,15 @@ Dependecies: ----------------------------------------------
 
 - ncurses
 
-# apt-get install libncurses5 libncurses5-dev
+$ apt-get install libncurses5 libncurses5-dev
 
 Compilação: -----------------------------------------------
 
-# git clone breakout
-# cd breakout
-# make
-# cd bin
-# ./breakout
+$ git clone breakout
+$ cd breakout
+$ make
+$ cd bin
+$ ./breakout
 
 Controles: ------------------------------------------------
 
