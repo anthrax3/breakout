@@ -1,4 +1,5 @@
-Breakout
+# Breakout
+
 Author: Ighor Augusto
 
 Based on: https://github.com/valeriangalliat/breakout
